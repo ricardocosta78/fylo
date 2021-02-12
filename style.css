@@ -366,7 +366,7 @@ a {
   border: 1px solid black;
 }
 
-/* @media (max-width: 1440px) {
+@media (max-width: 1440px) {
   .nav img {
     width: 150px;
   }
@@ -540,4 +540,4 @@ a {
       width:50%;
       margin-top: 10px;
   }
-} */
+} 
